@@ -38,7 +38,6 @@
 [<img src="https://images.credly.com/size/680x680/images/d93f9c40-fb19-4aae-ac34-4e068d391115/blob" width="100">](https://www.credly.com/badges/1d9d15eb-8677-4a30-94bf-37dc373a1489)
 [<img src="https://images.credly.com/size/680x680/images/caf78f37-b800-45b8-9822-7b5d35bbadd6/blob" width="100">](https://www.credly.com/badges/41d6637d-003c-4da4-bd15-8be665cd8642)
 [<img src="https://images.credly.com/size/680x680/images/5ed0eac3-8986-4fab-a16b-cab70d4a920e/blob" width="100">](https://www.credly.com/badges/181b0588-77bb-430a-855c-0f61d916bf64)
-[<img src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="100">](https://www.credly.com/badges/5ea8e950-1f00-4880-8c8d-a0750bbe0ea5)
 [<img src="https://images.credly.com/size/680x680/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png" width="100">](https://www.credly.com/badges/2722e59a-26df-4d5c-b8e2-2601ce3a3928)
 [<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100">](https://learn.microsoft.com/en-us/users/chungnguyen1120/credentials/249607c0f4516eac)
 [<img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="100">](https://learn.microsoft.com/en-us/users/chungnguyen1120/credentials/c6d70da18e9c6190)
